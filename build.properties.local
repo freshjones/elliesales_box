@@ -1,0 +1,5 @@
+# Your local properties file, to be adapted and renamed to `build.properties`
+
+drupal.db.url = mysqli://USER:PASS@localhost/elliesites_D7
+
+drupal.db.database = elliedb
